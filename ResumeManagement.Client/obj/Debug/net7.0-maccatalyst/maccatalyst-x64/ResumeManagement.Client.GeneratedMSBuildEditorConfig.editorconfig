@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ResumeManagement.Client
+build_property.ProjectDir = E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/EmployeeDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.EmployeeDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = EmployeeDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = EmployeeDetailPage.xaml
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/EmployeesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.EmployeesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = EmployeesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = EmployeesPage.xaml
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[E:/MAUI/Evedence/ResumeManagement - Copy/ResumeManagement.Client/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ResumeManagement.Client.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

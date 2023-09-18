@@ -1,0 +1,1 @@
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\ResumeManagement.Client.csproj;x64

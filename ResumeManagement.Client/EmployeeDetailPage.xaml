@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResumeManagement.Client.EmployeeDetailPage"
+             Title="{Binding PageTitle}">
+    <VerticalStackLayout>
+        <Image Source="{Binding ImageUrl, Converter={StaticResource Base64ToImageConverter}}" HeightRequest="200" x:Name="Upload_Image" HorizontalOptions="Center" />
+
+        <!--<Image Source="{Binding ImageUrl}" HeightRequest="200" x:Name="Upload_Image" HorizontalOptions="Center" />-->
+        <Label Text="Upload Image" FontSize="32" HorizontalOptions="Center" />
+        <Button x:Name="CounterBtn" Text="Click me" Clicked="OnCounterClicked"  HorizontalOptions="Center" />
+
+        <Grid ColumnDefinitions="Auto, Auto" RowDefinitions="Auto, Auto,Auto, Auto,Auto, Auto">
+            <Label Text="Employee Id" VerticalOptions="Center" Margin="6"/>
+            <Entry Text="{Binding EmployeeId, Mode=TwoWay}" Grid.Column="1" MaxLength="5" TextTransform="Uppercase"/>
+
+            <Label Text="Employee Name" Grid.Row="1" VerticalOptions="Center" Margin="6"/>
+            <Entry Text="{Binding EmployeeName, Mode=TwoWay}" Grid.Column="1" Grid.Row="1"/>
+
+            <Label Text="Join Date" Grid.Row="2" VerticalOptions="Center" Margin="6"/>
+            <DatePicker Date="{Binding JoinDate, Mode=TwoWay}" Grid.Column="1" Grid.Row="2"/>
+
+            <Label Text="Salary" Grid.Row="3" VerticalOptions="Center" Margin="6"/>
+            <Entry Text="{Binding Salary, Mode=TwoWay}" Grid.Column="1" Grid.Row="3"/>
+
+            <Label Text="Is Working" Grid.Row="4" VerticalOptions="Center" Margin="6"/>
+            <Switch IsToggled="{Binding IsWorking, Mode=TwoWay}" Grid.Column="1" Grid.Row="4"/>
+        </Grid>
+
+        <Button x:Name="SaveButton" Text="Save" Clicked="SaveButton_Clicked"/>
+        <Button x:Name="UpdateButton" Text="Update" Clicked="UpdateButton_Clicked" IsVisible="False"/>
+    </VerticalStackLayout>
+</ContentPage>

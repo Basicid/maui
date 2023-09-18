@@ -1,0 +1,28 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ResumeManagement.Client.EmployeesPage"
+             Title="Employees Page">
+    <VerticalStackLayout Spacing="15" Padding="20">
+        <HorizontalStackLayout Spacing="10">
+            <Label Text="Employees" FontSize="Title"></Label>
+            <Button Text="Add" HorizontalOptions="End" Clicked="Add_Clicked" />
+        </HorizontalStackLayout>
+
+        <Label x:Name="InfoLabel" />
+        <Label x:Name="ErrorLabel" IsVisible="false" />
+
+
+        <ListView ItemsSource="{Binding .}" VerticalOptions="Start" HorizontalOptions="Start" IsPullToRefreshEnabled="True" ItemTapped="Customer_Tapped" Refreshing="Customers_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding EmployeeName}" Detail="{Binding JoinDate}" TextColor="Blue" DetailColor="DimGrey">
+                        <TextCell.ContextActions>
+                           
+                            <MenuItem Text="Delete" Clicked="Customer_Deleted" IsDestructive="True"/>
+                        </TextCell.ContextActions>
+                    </TextCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>

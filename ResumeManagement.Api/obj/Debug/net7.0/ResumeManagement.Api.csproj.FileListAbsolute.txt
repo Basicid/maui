@@ -1,0 +1,152 @@
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\appsettings.Development.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\appsettings.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.exe
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.deps.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.runtimeconfig.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.pdb
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Azure.Core.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Humanizer.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.csproj.AssemblyReference.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.AssemblyInfoInputs.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.AssemblyInfo.cs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.csproj.CoreCompileInputs.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.ResumeManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ResumeManagement.Api.props
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ResumeManagement.Api.props
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ResumeManagement.Api.props
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\scopedcss\bundle\ResumeManagement.Api.styles.css
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.csproj.CopyComplete
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\refint\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.pdb
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.genruntimeconfig.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Api\obj\Debug\net7.0\ref\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\appsettings.Development.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\appsettings.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.exe
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.deps.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.runtimeconfig.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\ResumeManagement.Api.pdb
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Azure.Core.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Azure.Identity.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Humanizer.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.CodeDom.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Memory.Data.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.csproj.AssemblyReference.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.AssemblyInfoInputs.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.AssemblyInfo.cs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.csproj.CoreCompileInputs.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.ResumeManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.ResumeManagement.Api.props
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ResumeManagement.Api.props
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ResumeManagement.Api.props
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets.pack.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets.build.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\staticwebassets.development.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\scopedcss\bundle\ResumeManagement.Api.styles.css
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.csproj.CopyComplete
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\refint\ResumeManagement.Api.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.pdb
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ResumeManagement.Api.genruntimeconfig.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Api\obj\Debug\net7.0\ref\ResumeManagement.Api.dll

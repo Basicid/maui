@@ -1,0 +1,650 @@
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.csproj.AssemblyReference.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.exe
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.deps.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.runtimeconfig.json
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.pdb
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1023.36312.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.AssemblyInfoInputs.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.AssemblyInfo.cs
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.csproj.CoreCompileInputs.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.csproj.CopyComplete
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.pdb
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.genruntimeconfig.cache
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+E:\MAUI\Evedence\ResumeManagement\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.exe
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.deps.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.runtimeconfig.json
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.pdb
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.CSharp.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.Core.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.VisualBasic.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Win32.Registry.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.AppContext.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Buffers.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Concurrent.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Immutable.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.NonGeneric.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.Specialized.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Collections.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Annotations.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.DataAnnotations.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.EventBasedAsync.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.TypeConverter.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ComponentModel.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Configuration.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Console.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Core.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.Common.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.DataSetExtensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Data.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Contracts.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Debug.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.DiagnosticSource.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.FileVersionInfo.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Process.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.StackTrace.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TextWriterTraceListener.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tools.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.TraceSource.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Diagnostics.Tracing.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Drawing.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Dynamic.Runtime.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Asn1.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Formats.Tar.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Calendars.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Globalization.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Brotli.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.FileSystem.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.ZipFile.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.AccessControl.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.DriveInfo.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.Watcher.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.FileSystem.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.IsolatedStorage.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.MemoryMappedFiles.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.AccessControl.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Pipes.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.UnmanagedMemoryStream.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Expressions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Parallel.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.Queryable.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Linq.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Memory.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.Json.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Http.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.HttpListener.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Mail.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NameResolution.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.NetworkInformation.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Ping.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Quic.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Requests.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Security.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.ServicePoint.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.Sockets.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebClient.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebHeaderCollection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebProxy.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.Client.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.WebSockets.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Net.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.Vectors.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Numerics.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ObjectModel.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.CoreLib.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.DataContractSerialization.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Uri.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.Linq.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Private.Xml.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.DispatchProxy.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.ILGeneration.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.Lightweight.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Emit.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Metadata.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.TypeExtensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Reflection.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Reader.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.ResourceManager.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Resources.Writer.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.Unsafe.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.CompilerServices.VisualC.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Handles.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.JavaScript.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.InteropServices.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Intrinsics.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Loader.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Numerics.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Formatters.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Json.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.Xml.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.Serialization.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Runtime.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.AccessControl.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Claims.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Algorithms.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Cng.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Csp.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Encoding.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.OpenSsl.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.Primitives.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.X509Certificates.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Cryptography.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.Windows.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.Principal.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.SecureString.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Security.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceModel.Web.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ServiceProcess.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.CodePages.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encoding.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Encodings.Web.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.Json.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Text.RegularExpressions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Channels.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Overlapped.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Dataflow.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Extensions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.Parallel.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Tasks.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Thread.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.ThreadPool.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.Timer.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Threading.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.Local.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Transactions.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.ValueTuple.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.HttpUtility.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Web.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Windows.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Linq.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.ReaderWriter.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.Serialization.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XDocument.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.XDocument.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XPath.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlDocument.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.XmlSerializer.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.Xml.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WindowsBase.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorlib.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\netstandard.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\System.IO.Compression.Native.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clretwrc.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrgc.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\clrjit.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\coreclr.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\createdump.exe
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1023.36312.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.csproj.AssemblyReference.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.AssemblyInfoInputs.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.AssemblyInfo.cs
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.csproj.CoreCompileInputs.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.csproj.CopyComplete
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.pdb
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ResumeManagement.Client.genruntimeconfig.cache
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ref\ResumeManagement.Client.dll
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+E:\MAUI\Evedence\ResumeManagement - Copy\ResumeManagement.Client\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
