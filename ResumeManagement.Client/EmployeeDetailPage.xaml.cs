@@ -20,7 +20,7 @@ public partial class EmployeeDetailPage : ContentPage
         SaveButton.IsVisible = true;
         UpdateButton.IsVisible = false;
 
-      
+        jDate.Date = DateTime.Now;
         imageUpload = new FileUpload();
     }
     public EmployeeDetailPage(EmployeesListViewModel employees, EmployeeViewModel employee)
